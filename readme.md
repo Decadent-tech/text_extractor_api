@@ -21,7 +21,7 @@ A hybrid NLP-powered Flask API that classifies customer service requests and ext
 
 ## 🧲 How It Works
 
-1. Takes a customer support sentence as input.
+1. Takes a customer support emails parse  as input text .
 2. Classifies it (e.g., `address_change`, `beneficiary_change`).
 3. Extracts structured entities like:
    - `new_address`
